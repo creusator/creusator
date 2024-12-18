@@ -1,6 +1,6 @@
-- 👋 Hi, I’m creusator a solo beginner game developper !
+- 👋 Hi, I’m creusator !
 - 👀 I’m interested in game developpement, software developpement
-- 🌱 I’m currently learning C#, Unity, Godot
+- 🌱 I’m currently learning the basics of programming along with the Godot game engine
 - 📫 How to reach me : Discord: creusator#1163
 
 <!---
